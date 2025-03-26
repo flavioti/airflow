@@ -1,0 +1,3 @@
+mycache/
+**/__pycache__/
+.env
